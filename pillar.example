@@ -1,0 +1,4 @@
+catalyst:
+    profile: default/linux/amd64/17.1/hardened
+    stage3_suffix: '' # Available values: '', '-musl'
+    mirror_url: https://mirror.yandex.ru/gentoo-distfiles/

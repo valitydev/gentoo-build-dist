@@ -1,0 +1,4 @@
+dev-libs/libpcre2 jit
+mail-mta/ssmtp mta
+sys-apps/busybox -static
+app-admin/salt gnupg openssl keyring portage
