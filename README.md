@@ -1,2 +1,3 @@
 # gentoo-build-iso
-Build Gentoo LiveCD admin ISO with SaltStack and Catalyst
+
+Build latest version of admin ISO with SaltStack, Stratis storage packages included.
