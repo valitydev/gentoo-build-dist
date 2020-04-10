@@ -25,9 +25,10 @@ boot/kernel/gentoo/config: /var/tmp/catalyst/salt/kconfig/admincd-4.14.83.config
 #	sys-fs/zfs
 #	sys-fs/zfs-kmod
 
-livecd/rcadd: sshd|default
-livecd/rcadd: dbus|default
-livecd/rcadd: stratisd|default
+livecd/rcadd: 
+	sshd|default
+	dbus|default
+	stratisd|default
 
 livecd/unmerge:
 	app-admin/eselect

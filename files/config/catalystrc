@@ -5,3 +5,4 @@
 export MAKEOPTS="-j{{ grains['num_cpus'] }}"
 export EMERGE_DEFAULT_OPTS=" -v --jobs={{ grains['num_cpus'] }} "
 export ACCEPT_LICENSE='*'
+export I_KNOW_WHAT_I_AM_DOING=yes

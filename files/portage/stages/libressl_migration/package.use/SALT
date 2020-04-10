@@ -1,0 +1,3 @@
+net-libs/zeromq drafts
+app-admin/salt -openssl
+sys-process/audit python

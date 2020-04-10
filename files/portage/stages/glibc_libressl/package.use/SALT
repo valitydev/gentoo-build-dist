@@ -1,0 +1,4 @@
+net-libs/zeromq drafts
+app-admin/salt -openssl
+sys-process/audit python
+sys-boot/grub grub_platforms_efi-64 grub_platforms_multiboot grub_platforms_pc 

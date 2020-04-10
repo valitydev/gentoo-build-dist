@@ -1,0 +1,10 @@
+x11-terms/kitty-terminfo ~amd64
+sys-fs/stratis-cli ~amd64
+sys-fs/stratisd ~amd64
+app-admin/salt ~amd64
+dev-python/dbus-client-gen
+dev-python/dbus-python-client-gen
+dev-python/dbus-signature-pyparsing
+dev-python/into-dbus-python
+dev-python/justbases
+dev-python/justbytes
